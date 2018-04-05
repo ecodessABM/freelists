@@ -22,7 +22,7 @@ guadual-16,crop_damage
 guadual-53,crop_damage
 san_miguel-16,crop_damage
 trinidad-16,crop_damage
-trinidad-8,damage_to_applicances
+trinidad-8,damage_to_appliances
 guadual-27,decomposing_animals
 trinidad-16,deforestation
 trinidad-40,drought
@@ -32,9 +32,9 @@ guadual-20,education
 guadual-44,education
 san_miguel-56,education
 trinidad-16,contaminated_environment
-trinidad-3,need_to_fix_potable_water_system
-trinidad-22,need_to_fix_potable_water_system
-trinidad-28,need_to_fix_potable_water_system
+trinidad-3,water_system_is_damaged
+trinidad-22,water_system_is_damaged
+trinidad-28,water_system_is_damaged
 san_miguel-47,need_to_fix_streets
 guadual-3,floods
 guadual-4,floods
